@@ -24,5 +24,8 @@ INSTRUCTIONS:
 
   "A" --> Move Backwards
   "D" --> Move Forward
+  "S" --> Crouch
+  "Q" --> Dash left
+  "E" --> Dash right
   "Spacebar" --> Jump
   "E" --> Switch universe
